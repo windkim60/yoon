@@ -1,0 +1,125 @@
+Y02-11-2023 10:30:26 DEBUG value of total local variable before enetering htloop was 0.0
+A02-11-2023 10:30:26 DEBUG value of total local variable was 0.0
+maxi_savings_account Fail
+BankTest Success
+Y02-11-2023 10:30:26 DEBUG value of total local variable before enetering htloop was 0.0
+A02-11-2023 10:30:26 DEBUG value of total local variable was 2.0
+savings_account Success
+Y02-11-2023 10:30:26 DEBUG value of total local variable before enetering htloop was 0.0
+B02-11-2023 10:30:26 DEBUG value of total local variable was 10.5
+1totalInterestWithMultipleCustomersPaidTest Fail
+testOneAccount Success
+testTwoAccount Success
+	CustomerTest Fail
+
+testThreeAccounts Fail
+TransactionTest Success
+*** Jim's Account ***
+2[ Date=2023-11-02, balance=1600.0, interest=0.0]
+B[ Date=2023-11-01, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-31, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-30, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-29, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-28, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-27, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-26, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-25, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-24, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-23, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-22, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-21, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-20, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-19, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-18, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-17, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-16, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-15, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-14, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-13, balance=1600.0, interest=0.21917808219178084]
+/[ Date=2023-10-12, balance=0.0, interest=0.0]
+/[ Date=2023-10-11, balance=0.0, interest=0.0]
+/[ Date=2023-10-10, balance=0.0, interest=0.0]
+/[ Date=2023-10-09, balance=0.0, interest=0.0]
+/[ Date=2023-10-08, balance=0.0, interest=0.0]
+/[ Date=2023-10-07, balance=0.0, interest=0.0]
+/[ Date=2023-10-06, balance=0.0, interest=0.0]
+/[ Date=2023-10-05, balance=0.0, interest=0.0]
+/[ Date=2023-10-04, balance=0.0, interest=0.0]
+/[ Date=2023-10-03, balance=0.0, interest=0.0]
+***********
+#Total Interest: 4.383561643835617
+***********
+Test Interest1 Success
+*** Jim's Account ***
+2[ Date=2023-11-02, balance=1000.0, interest=0.0]
+B[ Date=2023-11-01, balance=1000.0, interest=0.13698630136986303]
+B[ Date=2023-10-31, balance=1000.0, interest=0.13698630136986303]
+B[ Date=2023-10-30, balance=1000.0, interest=0.13698630136986303]
+B[ Date=2023-10-29, balance=1000.0, interest=0.13698630136986303]
+D[ Date=2023-10-28, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-27, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-26, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-25, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-24, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-23, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-22, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-21, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-20, balance=1000.0, interest=0.0027397260273972603]
+D[ Date=2023-10-19, balance=1000.0, interest=0.0027397260273972603]
+B[ Date=2023-10-18, balance=1000.0, interest=0.13698630136986303]
+B[ Date=2023-10-17, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-16, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-15, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-14, balance=1600.0, interest=0.21917808219178084]
+B[ Date=2023-10-13, balance=1600.0, interest=0.21917808219178084]
+/[ Date=2023-10-12, balance=0.0, interest=0.0]
+/[ Date=2023-10-11, balance=0.0, interest=0.0]
+/[ Date=2023-10-10, balance=0.0, interest=0.0]
+/[ Date=2023-10-09, balance=0.0, interest=0.0]
+/[ Date=2023-10-08, balance=0.0, interest=0.0]
+/[ Date=2023-10-07, balance=0.0, interest=0.0]
+/[ Date=2023-10-06, balance=0.0, interest=0.0]
+/[ Date=2023-10-05, balance=0.0, interest=0.0]
+/[ Date=2023-10-04, balance=0.0, interest=0.0]
+/[ Date=2023-10-03, balance=0.0, interest=0.0]
+***********
+$Total Interest: 1.8082191780821917
+***********
+Test Interest2 Success
+*** Tom's Account ***
+2[ Date=2023-11-02, balance=1300.0, interest=0.0]
+C[ Date=2023-11-01, balance=700.0, interest=0.0019178082191780824]
+C[ Date=2023-10-31, balance=700.0, interest=0.0019178082191780824]
+C[ Date=2023-10-30, balance=700.0, interest=0.0019178082191780824]
+C[ Date=2023-10-29, balance=700.0, interest=0.0019178082191780824]
+C[ Date=2023-10-28, balance=700.0, interest=0.0019178082191780824]
+B[ Date=2023-10-27, balance=900.0, interest=0.002465753424657534]
+B[ Date=2023-10-26, balance=900.0, interest=0.002465753424657534]
+B[ Date=2023-10-25, balance=900.0, interest=0.002465753424657534]
+B[ Date=2023-10-24, balance=900.0, interest=0.002465753424657534]
+B[ Date=2023-10-23, balance=900.0, interest=0.002465753424657534]
+C[ Date=2023-10-22, balance=600.0, interest=0.0016438356164383563]
+C[ Date=2023-10-21, balance=600.0, interest=0.0016438356164383563]
+C[ Date=2023-10-20, balance=600.0, interest=0.0016438356164383563]
+C[ Date=2023-10-19, balance=600.0, interest=0.0016438356164383563]
+A[ Date=2023-10-18, balance=600.0, interest=0.08219178082191782]
+A[ Date=2023-10-17, balance=700.0, interest=0.09589041095890412]
+A[ Date=2023-10-16, balance=700.0, interest=0.09589041095890412]
+A[ Date=2023-10-15, balance=700.0, interest=0.09589041095890412]
+C[ Date=2023-10-14, balance=700.0, interest=0.0019178082191780824]
+C[ Date=2023-10-13, balance=700.0, interest=0.0019178082191780824]
+/[ Date=2023-10-12, balance=0.0, interest=0.0]
+/[ Date=2023-10-11, balance=0.0, interest=0.0]
+/[ Date=2023-10-10, balance=0.0, interest=0.0]
+/[ Date=2023-10-09, balance=0.0, interest=0.0]
+/[ Date=2023-10-08, balance=0.0, interest=0.0]
+/[ Date=2023-10-07, balance=0.0, interest=0.0]
+/[ Date=2023-10-06, balance=0.0, interest=0.0]
+/[ Date=2023-10-05, balance=0.0, interest=0.0]
+***********
+$Total Interest: 0.4021917808219178
+***********
+Test Interest3 Success
+TransferTest Success1
+TransferTest Success2
+TransferTest Fail3
